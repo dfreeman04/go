@@ -438,9 +438,8 @@ header nav ul li {
   display:inline-block;
 }
 
-.header p {
+h3.tagline {
   text-align:center;
-  margin-top:1em;
 }
 
 header nav ul li a {
@@ -554,6 +553,7 @@ img.partners {
 
 .create ul li {
   text-align:center;
+  list-style-type: none;
 }
 
 img.create {
