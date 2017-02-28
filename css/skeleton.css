@@ -490,15 +490,7 @@ img.three {
 
 .experience p {
   text-align: center;
-}
-
-img.feed {
-  margin-bottom:1em;
-}
-
-img.icon {
-  display:block;
-  margin:auto;
+  margin-top: 1em;
 }
 
 .experience h6 {
@@ -506,6 +498,18 @@ img.icon {
   text-align: center;
 }
 
+img.icon {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.feed {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+}
 
   /* Storefront */
 
@@ -557,7 +561,9 @@ img.partners {
 }
 
 img.create {
-  display:block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 1em;
 }
 
